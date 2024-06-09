@@ -1,0 +1,49 @@
+#mainframe{
+    display: inline-grid;
+    border: 5px, solid, black;
+    border-radius: 5px;
+    background-color: hsl(0,0%, 15%);
+    padding: 1em;
+}
+
+#display{
+    text-align: right;
+    display: inline-block;
+    border: 5px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: hsla(0, 0%, 100%, 0.705);
+    height: 60px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 15%);
+    padding: 10px;
+    margin: 0;
+}
+
+#equals-button{
+    background-color: hsl(189, 100%, 50%);
+
+}
+
+#keypad{
+    padding-top: 0px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 15%);
+    padding: 15px;
+    display: inline-grid;
+    width: 32em;
+
+}
+
+
+.app-button{
+    background-color: hsl(0, 0%, 45%);
+    border-radius: 10px;
+    height: 3em;
+    width: 4em;
+    padding: 15px;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: hsla(0, 0%, 100%, 0.705);
+}
