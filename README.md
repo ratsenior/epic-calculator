@@ -1,6 +1,6 @@
-# React + Vite
+# React + Vite + Vanilla JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple 4 function calculator web app I made to learn the basics of React. Inspired by the included Windows calculator.
 
 Currently, two official plugins are available:
 
