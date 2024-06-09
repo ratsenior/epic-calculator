@@ -1,6 +1,6 @@
 # React + Vite + Vanilla JS
 
-A simple calculator web app I made to learn the basics of React.
+A simple 4 function calculator web app I made to learn the basics of React. Inspired by the included Windows calculator.
 
 Currently, two official plugins are available:
 
